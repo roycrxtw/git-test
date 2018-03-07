@@ -1,3 +1,3 @@
 # git-test
 
-git master. some text here
+git master: some text here
